@@ -1,0 +1,14 @@
+{
+  "resourceName": "testingAwsReactAmplify",
+  "policyUUID": "998a9d89",
+  "bucketName": "reactawsamplifytest6aa71e5eda604f31b1567ffebaeb",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
